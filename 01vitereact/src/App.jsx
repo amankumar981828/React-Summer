@@ -1,7 +1,11 @@
-
+import Aman from "./aman"
 function App() {
   return (
-    <h1>React on with vite | Aman Kumar</h1>
+    <>
+     <h3>Hello Ji</h3>
+     <Aman/>
+     <p>Hello Raja</p>
+    </>
   )
 }
 
